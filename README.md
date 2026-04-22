@@ -1,4 +1,4 @@
-# Hi, I'm Monali Bhujbal 👋
+# Hi, I'm Monali Bhujbal 
 
 🎓 B.Tech Computer Engineering @ VIT Pune (CGPA: 8.89)  
 🔬 2x Patent Holder | 2x Published Researcher (IEEE & IJERT)  

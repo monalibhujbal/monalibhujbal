@@ -21,7 +21,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| (https://github.com/monalibhujbal/snappay-upi) | Privacy-first PWA for UPI fraud detection using on-device OCR/NLP | Nuxt.js, TensorFlow.js, Firebase |
+|  [UPI SnapPay](https://github.com/monalibhujbal/snappay-upi) | Privacy-first PWA for UPI fraud detection using on-device OCR/NLP | Nuxt.js, TensorFlow.js, Firebase |
 | [AI Recruitment Orchestrator](#) | Multi-agent hiring platform — 95% reduction in manual effort | Python, LangGraph, FAISS, PostgreSQL |
 | [Multi-Agent Study Assistant](#) | Adaptive learning with RAG-based document Q&A | LangChain, ChromaDB, Streamlit |
 

@@ -9,11 +9,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java • C/C++ • Python • SQL  
+**Languages:** Java • C • Python • SQL  
 **Web:** HTML • CSS • JavaScript • Nuxt.js  
-**AI/ML:** LangChain • LangGraph • TensorFlow.js • Transformers.js • spaCy • FAISS  
-**Databases:** MySQL • MongoDB • Firebase • PostgreSQL • ChromaDB  
-**Tools:** Git • GitHub • Linux • Streamlit • Flask  
+**AI/ML:** LangChain • LangGraph • TensorFlow.js • Transformers.js 
+**Libraries:** Scikit-Learn • Pandas
+**Databases:** MySQL • MongoDB • Firebase • ChromaDB  
+**Tools:** Git • GitHub • Linux  
 
 ---
 
